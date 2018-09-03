@@ -1,8 +1,3 @@
-/*
-Project 3
-Author: Zhenhua Cai
-CUNY ID: 23599843
-*/
 #include<iostream>
 #include<cmath>
 #include<vector>
