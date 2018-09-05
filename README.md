@@ -1,2 +1,2 @@
-# Sample planet
-This is a sample program using openGL.
+# Simple planet
+This is a simple program using openGL.
